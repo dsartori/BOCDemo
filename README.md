@@ -18,6 +18,7 @@ This script generates a CSV (sample included in repository) listing all of the s
 ## factotum.py
 
 **usage: factotum.py [-h] [--start START] [--end END] series filename**
+
 This script generates a chart image from the Valet data series specified on the command line, with a time period optionally specified. Factotum accepts the following command-line arguments:
 
 * **--start** this optional parameter identifies the start date for the data series in the format YYYY-MM-DD
